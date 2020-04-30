@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588264407 source:c:\users\stefania\desktop\anul 1. semestrul 2\lfa\tema1_lfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
